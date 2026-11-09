@@ -17,6 +17,7 @@ A responsive multi-page business website built with plain HTML, CSS, and JavaScr
 - **Address:** Plot No E89 Sector 22 Korangi Industrial Area Karachi, Pakistan
 - **Telephone:** 5056756
 - **Fax:** 5056989
+- **Email:** perfectleather@atomicmail.io
 - **Copyright:** © 2002 Perfect Leather. All Rights Reserved.
 
 ## Run locally
